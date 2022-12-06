@@ -1,0 +1,14 @@
+[user]
+    name = rice522
+    email = acme@mail.sdu.edu.cn
+[alias]
+    st = status
+    br = branch
+    ck = checkout
+[pager]
+    diff = false
+    branch = false
+    log = false
+    tag = false
+[core]
+    editor = emacs
